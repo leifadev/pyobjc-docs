@@ -13,9 +13,8 @@ assignees: ''
 **Links/Medoa**
 Paste exactly what you want to add to the docs to help!
 
+**Is it a advanced or beginner tutorials?**
+Beginner
 
-**YOUR Resources that help you solve this**
-- youtube.com/rarevideo
-- wordpress.com/nichearticle
-- someblog.com
-- readthedocs.io/some-specific-place-html-header
+**Specific topic? (Objective-C tutorial, Cocoa library intro, pyobjc exceptions)**
+An objective-c and xcode simple tutorial
